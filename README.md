@@ -15,3 +15,5 @@
 ## 文章列表
 
 1. [Class 文件结构解析](https://github.com/InternetAddictionTeenager/blog/blob/master/sly/class_parser.md)
+
+2. [Smali 文件解析-HELLO_WORLD](https://github.com/InternetAddictionTeenager/blog/blob/master/sly/Smali%E6%96%87%E4%BB%B6%E8%A7%A3%E6%9E%90%E2%80%94%E2%80%94HelloWorld.md)

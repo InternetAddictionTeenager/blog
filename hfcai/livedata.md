@@ -12,7 +12,7 @@ LiveDatas作为MVVM的一份子，很容易人健忘，不是很重要，但又�
 - [MVVM之DataBinding的使用](./databinding.md)
 - [MVVM之LiveData的使用](./livedata.md)
 - [MVVM之Retrofit与LiveData的集成](./mvvm_retrofit.md)
-- [MVVM之ViewModel的简单封装]()
+- [MVVM之ViewModel的简单封装](./mvvm_use.md)
 
 
 

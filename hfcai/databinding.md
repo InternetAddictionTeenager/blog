@@ -10,7 +10,7 @@ Android 中的MVVM模式的实现其很大一部分依托于Android Architecture
 - [MVVM之DataBinding的使用](./databinding.md)
 - [MVVM之LiveData的使用](./livedata.md)
 - [MVVM之Retrofit与LiveData的集成](./mvvm_retrofit.md)
-- [MVVM之ViewModel的简单封装]()
+- [MVVM之ViewModel的简单封装](./mvvm_use.md)
 
 
 ## DataBinding

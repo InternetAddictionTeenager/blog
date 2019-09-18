@@ -10,7 +10,7 @@ MVVM已经出来了较长一段时间了，而这个模式则是将 **MVVM**、*
    - [MVVM之DataBinding的使用](./databinding.md)
    - [MVVM之LiveData的使用](./livedata.md)
    - [MVVM之Retrofit与LiveData的集成](./mvvm_retrofit.md)
-   - [MVVM之ViewModel的简单封装]()
+   - [MVVM之ViewModel的简单封装](./mvvm_use.md)
 
 本篇不免落入俗套的介绍下MVVM的背景介绍之中。
 

@@ -9,7 +9,7 @@
 - [MVVM之DataBinding的使用](./databinding.md)
 - [MVVM之LiveData的使用](./livedata.md)
 - [MVVM之Retrofit与LiveData的集成](./mvvm_retrofit.md)
-- [MVVM之ViewModel的简单封装]()
+- [MVVM之ViewModel的简单封装](./mvvm_use.md)
 
 ### 三方地址
 
